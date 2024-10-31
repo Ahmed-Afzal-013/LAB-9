@@ -1,15 +1,73 @@
-.first-div {
-    width: 500px;
-    height: 500px;
-    background-color: rgb(156, 224, 107);
+  .first-div {
+    width: 600px;
+    height: 285px;
+    background-color: rgb(84, 156, 165);
     border-width: 3px;
-    border-color: rgb(39, 162, 135);
+    border-color: rgb(36, 120, 203);
     border-radius: 20%;
-    margin: 10px;
+    margin: 8px;
   
-    padding-bottom: 5px;
-    padding: 5px;
-    padding-top: 5px;
-    margin-left: 5px;
+    padding-bottom: 10px;
+    padding: 10px;
+    padding-top: 2px;
+    margin-left: 500px;
+  }
+  
+  #ollist {
+    padding-bottom: 10px;
+    line-height: 30px;
+    font-size: 20px;
+    color: rgb(147, 196, 239);
+  }
+  
+  #ullist {
+    padding-bottom: 10px;
+    line-height: 30px;
+    font-size: 20px;
+    color: rgb(224, 224, 167);
+  }
+  
+  #h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: aliceblue;
+  }
+  
+  .normal-para {
+    color: green;
+  }
+  
+  #fav-para {
+    color: purple;
+  }
+  
+  #msg {
+    text-align: center;
+    font-size: 25px;
+    height: 20px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .info {
+    font-size: 20px;
+    color: aliceblue;
+  }
+  
+  .para {
+    font-size: 30px;
+    color: aliceblue;
+  }
+  
+  .normal-para {
+    font-size: 18px;
+  }
+  
+  #fav-para {
+    font-size: 18px;
+  }
+  
+  body {
+    background-color: rgb(160, 171, 33);
   }
   
